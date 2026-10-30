@@ -8,9 +8,9 @@
 
 <br/>
 
-**Transformando ideas en experiencias digitales.**
+**Turning ideas into digital experiences.**
 
-Desarrollador enfocado en crear sitios web, aplicaciones y soluciones tecnológicas. Me apasiona construir proyectos desde cero, explorar nuevas tecnologías y convertir problemas cotidianos en herramientas digitales.
+Web developer focused on building websites, applications, and digital solutions. Passionate about creating projects from scratch, exploring new technologies, and turning everyday problems into functional digital products.
 
 [![GitHub](https://img.shields.io/badge/GitHub-DylanAndrada12-161b22?style=for-the-badge&logo=github)](https://github.com/DylanAndrada12)
 [![Portfolio](https://img.shields.io/badge/Portfolio-DYZEN-161b22?style=for-the-badge&logo=vercel)](https://dyzen.vercel.app/index.html)
@@ -21,11 +21,11 @@ Desarrollador enfocado en crear sitios web, aplicaciones y soluciones tecnológi
 
 ### `01 / ABOUT ME`
 
-- 💻 Desarrollo sitios web y aplicaciones.
-- 🚀 Creador de **DYZEN**, soluciones digitales para pequeños negocios.
-- 🧠 Interesado en arquitectura de software, backend y automatización.
-- 🔍 Me gusta entender cómo funcionan las cosas, no solamente hacerlas funcionar.
-- 📚 Siempre aprendiendo y mejorando mis habilidades.
+- 💻 Building websites and web applications.
+- 🚀 Founder of **DYZEN**, providing digital solutions for small businesses.
+- 🧠 Interested in software architecture, backend development, and automation.
+- 🔍 I enjoy understanding how things work, not just making them work.
+- 📚 Always learning, experimenting, and improving my skills.
 
 ---
 
@@ -59,7 +59,7 @@ Desarrollador enfocado en crear sitios web, aplicaciones y soluciones tecnológi
 
 **01. DYZEN**
 
-Soluciones digitales para emprendedores y pequeños negocios. Desarrollo web, soporte y automatizaciones.
+Digital solutions for entrepreneurs and small businesses. Web development, technical support, and automation.
 
 [Explore project →](https://dyzen.vercel.app/index.html)
 
@@ -68,7 +68,7 @@ Soluciones digitales para emprendedores y pequeños negocios. Desarrollo web, so
 
 **02. Biblioteca Invaluable**
 
-Aplicación de gestión bibliotecaria con arquitectura frontend/backend, autenticación y base de datos.
+Library management application featuring frontend/backend architecture, authentication, and database integration.
 
 `JavaScript` `Node.js` `MySQL`
 
@@ -79,7 +79,7 @@ Aplicación de gestión bibliotecaria con arquitectura frontend/backend, autenti
 
 **03. Claws Bby**
 
-Desarrollo de una experiencia web para un emprendimiento de estética y servicios de uñas.
+Website development for a beauty and nail services business.
 
 `HTML` `CSS` `JavaScript`
 
@@ -88,7 +88,7 @@ Desarrollo de una experiencia web para un emprendimiento de estética y servicio
 
 **04. Personal Development**
 
-Proyectos experimentales para aprender, practicar y explorar nuevas tecnologías.
+Experimental projects focused on learning, practicing, and exploring new technologies.
 
 `Learning by building`
 
@@ -102,13 +102,7 @@ Proyectos experimentales para aprender, practicar y explorar nuevas tecnologías
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DylanAndrada12&show_icons=true&hide_border=true&bg_color=0d1117&title_color=55b9e8&icon_color=55b9e8&text_color=c9d1d9&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanAndrada12&layout=compact&hide_border=true&bg_color=0d1117&title_color=55b9e8&text_color=c9d1d9" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=DylanAndrada12&theme=github-dark-blue&hide_border=true&background=0D1117&ring=55B9E8&fire=55B9E8&currStreakLabel=55B9E8" />
+<img width="75%" src="https://streak-stats.demolab.com?user=DylanAndrada12&theme=github-dark-blue&hide_border=true&background=0D1117&ring=55B9E8&fire=55B9E8&currStreakLabel=55B9E8" />
 
 </div>
 
@@ -116,12 +110,12 @@ Proyectos experimentales para aprender, practicar y explorar nuevas tecnologías
 
 ### `05 / CURRENTLY LEARNING`
 
-- JavaScript avanzado y ES Modules.
-- Promises, Async/Await y Fetch API.
-- Arquitectura backend y APIs REST.
-- Node.js y Express.
-- Gestión de bases de datos MySQL.
-- Desarrollo de aplicaciones multiplataforma.
+- Advanced JavaScript and ES Modules.
+- Promises, Async/Await, and Fetch API.
+- Backend architecture and REST APIs.
+- Node.js and Express.
+- MySQL database management.
+- Cross-platform application development.
 
 ---
 
@@ -135,6 +129,15 @@ Proyectos experimentales para aprender, practicar y explorar nuevas tecnologías
 
 <a href="https://dyzen.vercel.app/index.html">
 <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20DYZEN-55b9e8?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**BUILD. LEARN. CREATE. REPEAT.**
+
+<sub>Designed with passion by Dylan Andrada.</sub>
+
+</div>
 </a>
 
 <br/><br/>
